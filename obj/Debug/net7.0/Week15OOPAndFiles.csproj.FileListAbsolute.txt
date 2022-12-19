@@ -1,0 +1,15 @@
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/bin/Debug/net7.0/Week15OOPAndFiles
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/bin/Debug/net7.0/Week15OOPAndFiles.deps.json
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/bin/Debug/net7.0/Week15OOPAndFiles.runtimeconfig.json
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/bin/Debug/net7.0/Week15OOPAndFiles.dll
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/bin/Debug/net7.0/Week15OOPAndFiles.pdb
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/Week15OOPAndFiles.csproj.AssemblyReference.cache
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/Week15OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/Week15OOPAndFiles.AssemblyInfoInputs.cache
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/Week15OOPAndFiles.AssemblyInfo.cs
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/Week15OOPAndFiles.csproj.CoreCompileInputs.cache
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/Week15OOPAndFiles.dll
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/refint/Week15OOPAndFiles.dll
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/Week15OOPAndFiles.pdb
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/Week15OOPAndFiles.genruntimeconfig.cache
+/Users/katarina/Projects/Week15OOPAndFiles/Week15OOPAndFiles/obj/Debug/net7.0/ref/Week15OOPAndFiles.dll
